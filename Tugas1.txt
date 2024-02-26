@@ -16,4 +16,5 @@
    For example, if the user enters 5 the program should display 15. 15 is (1+2+3+4+5). The file should be named task4.py.
 
 5. Write a program that reads in numbers until a -1 is entered and prints the sum of all numbers entered. 
-   For example, if the user enters 5 10 15 -1 the program should display 30 (Each number will be separated by a carriage return). 30 is (5+10+15). The file should be named task5.py.
+   For example, if the user enters 5 10 15 -1 the program should display 30 (Each number will be separated by a carriage return). 
+   30 is (5+10+15). The file should be named task5.py.
