@@ -4,7 +4,7 @@ NIM : 221402129
 
 Soal 5 = Write a program that reads in numbers until a -1 is entered and prints the sum of all numbers entered. 
 """
-#! Cara 1 (Pakek Enter)
+
 number = 0
 sum = 0
 
