@@ -14,17 +14,3 @@ while number != -1:
         sum += number
     
 print("The Sum of All Numbers Entered is : ", sum)
-
-#! Cara 2 (Pakek Spasi)
-# input_str = input("Enter numbers separated by spaces (-1 to end): ")
-
-# numbers = map(int, input_str.split())
-
-# total_sum = 0
-
-# for number in numbers:
-#     if number == -1:
-#         break
-#     total_sum += number
-
-# print("The Sum of All Numbers Entered is:", total_sum)

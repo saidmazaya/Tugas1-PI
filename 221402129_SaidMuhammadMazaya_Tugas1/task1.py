@@ -7,7 +7,7 @@ Soal 1 = Write a program using Python that reads in the user's salary and divide
 """
 import math
 
-salary = int(input("Enter Your Yearly Salary : "))
+salary = float(input("Enter Your Salary : "))
 
 monthlySalary = math.ceil(salary / 12)
 

@@ -11,4 +11,4 @@ sum = 0
 for i in range(1, number + 1):
     sum += i
 
-print("The Sum of All Values from 1 up to the Number is : ", sum)
+print(f"The Sum of All Values from 1 up to the Number {number} is : ", sum)
